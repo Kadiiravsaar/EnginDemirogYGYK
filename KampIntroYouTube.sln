@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{9975EEA4-C8FD-466F-BCBD-5CCAF485D04D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{15E95095-F3D4-431C-8F47-FE64FA93A544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{15E95095-F3D4-431C-8F47-FE64FA93A544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2Example", "OOP2Example\OOP2Example.csproj", "{6C030FE2-1AFE-4D01-8106-B1FDA97190F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2Example", "OOP2Example\OOP2Example.csproj", "{6C030FE2-1AFE-4D01-8106-B1FDA97190F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
